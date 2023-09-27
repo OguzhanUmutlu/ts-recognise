@@ -1,4 +1,4 @@
-# TS Recognise
+# TS Recognise  
 
 A repository that makes your typescript files runnable with just a single click!
 
